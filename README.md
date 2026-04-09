@@ -20,7 +20,7 @@ This is my favorite Loop i created, the screen clears perfectly even if the play
 
 I had trouble looping other sections without clearing important information and earlier choices from the screen.
 
-# Other Variables
+### Other Variables
 <!-- choice variables -->
 <img width="409" height="96" alt="Othervariables" src="https://github.com/user-attachments/assets/5f858e39-b0fa-46be-b7a2-c3aa7b3029c2" />
 
