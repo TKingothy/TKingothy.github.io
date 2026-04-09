@@ -1,5 +1,8 @@
 # TKingothy.github.io
 Hi, this is my code stuff
 
-<!-- placeholder image april 26 -->
-<img width="438" height="466" alt="placeholder" src="https://github.com/user-attachments/assets/382a3af6-4c1d-4c27-9eca-1fb11ba9ac26" />
+<!-- coat choice -->
+<img width="1106" height="582" alt="CoatChoiceVar" src="https://github.com/user-attachments/assets/fd68d5c8-a424-44fe-8dc5-6de6b1c47ec4" />
+
+<!-- lamploop -->
+<img width="1098" height="344" alt="LampChoiceLoop" src="https://github.com/user-attachments/assets/001f2ecb-51be-4c58-9f06-7f3a79beec81" />
