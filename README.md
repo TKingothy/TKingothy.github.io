@@ -31,20 +31,26 @@ The player has the oppurtunity to choose a path and whether to wear the coat
 These choices change outcomes later in the short story
 
 
-# Fish Game
-
-//Creating a looping menu from scratch
-
-
-
 # Calculator
 This Project helpped me consolodate my code by passing parameters through my methods
 
-// insert console image here
+<img width="281" height="200" alt="Screenshot 2026-05-14 121446" src="https://github.com/user-attachments/assets/202adb46-ee3b-41af-82af-5a40e700a8da" />
+
+It works by asking the player for two inputs, the bill total and the tip percentage
 
 Before this I would just have a bunch of feilds at the top of my page that held onto all the decisions you make throughout the game
 
 
+
+# Fish Game
+
+In this project I figured out how to create a menu area that allows the player to choose from 5 different actions
+
+<img width="245" height="358" alt="Screenshot 2026-05-10 201112" src="https://github.com/user-attachments/assets/2cc256b4-cc5e-48c9-b557-d8b0a286d3fe" />
+
+The menu options will update as you add new fish to your tanks, allowing you to view what fish are assigned to which tank
+
+<img width="1054" height="453" alt="Screenshot 2026-05-10 201233" src="https://github.com/user-attachments/assets/36a14b11-e2cf-4522-8b1b-568a00827f41" />
 
 
 
@@ -53,7 +59,8 @@ Before this I would just have a bunch of feilds at the top of my page that held 
 ## Verse Creation Loop
 In  the cumulative verse structure, lines are very repettitive so it's important to find which elements repeat and when, the refrain and first line are the most obvious repeating elements
 
-// add console image
+<img width="415" height="379" alt="Screenshot 2026-05-14 001202" src="https://github.com/user-attachments/assets/04460ed3-4bd1-4dd3-a4f5-da3b19f392f4" />
+
 
 But if you look at the instruments, even within the verse theres reapting structural elements like 
 Ive bought a (instrument_3)
@@ -61,6 +68,21 @@ Ive bought a (instrument_3)
 (instrument_1sound), the (instrument_1)
 (instrument_2sound), the (instrument_2)
 
-//add code image
+<img width="539" height="347" alt="Screenshot 2026-05-14 001247" src="https://github.com/user-attachments/assets/1a1a9ae7-6ea2-430d-9fd9-0511e70be965" />
 
 and the next verse adds 3 to the end and introduces instrument 4
+
+# Wardrobe Sim
+
+## Menu System
+I reused the code for this menu which I devloped for the fish project
+
+<img width="266" height="148" alt="Screenshot 2026-05-14 123430" src="https://github.com/user-attachments/assets/317e446a-8af3-4a9d-b7ce-653f6368636e" />
+
+Make new outfit works by creating a temporary list called Outfit that reads out whatever pieces you choose
+
+<img width="377" height="425" alt="Screenshot 2026-05-14 123422" src="https://github.com/user-attachments/assets/a9adc5a7-e693-40b1-bb8d-64f3124ba74e" />
+
+
+
+
