@@ -63,9 +63,13 @@ In  the cumulative verse structure, lines are very repettitive so it's important
 
 
 But if you look at the instruments, even within the verse theres reapting structural elements like 
+
 Ive bought a (instrument_3)
+
 (instrument_3sound), the (instrument_3)
+
 (instrument_1sound), the (instrument_1)
+
 (instrument_2sound), the (instrument_2)
 
 <img width="539" height="347" alt="Screenshot 2026-05-14 001247" src="https://github.com/user-attachments/assets/1a1a9ae7-6ea2-430d-9fd9-0511e70be965" />
