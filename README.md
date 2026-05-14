@@ -29,3 +29,38 @@ I had trouble looping other sections without clearing important information and 
 The player has the oppurtunity to choose a path and whether to wear the coat
 
 These choices change outcomes later in the short story
+
+
+# Fish Game
+
+//Creating a looping menu from scratch
+
+
+
+# Calculator
+This Project helpped me consolodate my code by passing parameters through my methods
+
+// insert console image here
+
+Before this I would just have a bunch of feilds at the top of my page that held onto all the decisions you make throughout the game
+
+
+
+
+
+# Song
+
+## Verse Creation Loop
+In  the cumulative verse structure, lines are very repettitive so it's important to find which elements repeat and when, the refrain and first line are the most obvious repeating elements
+
+// add console image
+
+But if you look at the instruments, even within the verse theres reapting structural elements like 
+Ive bought a (instrument_3)
+(instrument_3sound), the (instrument_3)
+(instrument_1sound), the (instrument_1)
+(instrument_2sound), the (instrument_2)
+
+//add code image
+
+and the next verse adds 3 to the end and introduces instrument 4
